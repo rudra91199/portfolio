@@ -144,7 +144,7 @@ width: 100%;
 
 .tutorials{
     background: linear-gradient(to left top, rgb(102, 28, 151), rgb(39, 0, 65)) ;
-    height: 100vh;
+    height: 100%;
     display: flex;
     flex-flow: column;
     align-items: center;
